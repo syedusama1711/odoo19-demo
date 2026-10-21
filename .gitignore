@@ -1,0 +1,8 @@
+src19/
+venv/
+.idea/
+__pycache__/
+*.pyc
+*.log
+filestore/
+odoo.conf
